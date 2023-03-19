@@ -1,0 +1,14 @@
+2022-01-07, 1. Spiel, Geld: 0, Name: Peter
+2022-01-07, 2. Spiel, Geld: 0, Name: Johnny
+2022-01-07, 3. Spiel, Geld: 0, Name: Tomas
+2022-01-07, 4. Spiel, Geld: 10, Name: Ana
+2022-01-07, 5. Spiel, Geld: 101, Name: john
+2022-01-07, 6. Spiel, Geld: 140, Name: Bob
+2022-01-07, 7. Spiel, Geld: 0, Name: Emma
+2022-01-07, 8. Spiel, Geld: 60, Name: Joe
+2022-01-07, 9. Spiel, Geld: 101, Name: Peter
+2022-01-07, 10. Spiel, Geld: 88, Name: Ron
+2022-01-07, 11. Spiel, Geld: 97, Name: Tom
+2022-01-07, 12. Spiel, Geld: 95, Name: James
+2022-01-07, 13. Spiel, Geld: 93, Name: Danielle
+2022-01-07, 14. Spiel, Geld: 93, Name: Ronnie
